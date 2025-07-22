@@ -10,7 +10,7 @@ int main()
     cin>>m2;
     cout<<"marks of english"<<endl;
     cin>>m3;
-    cout<<"marks of history"<<endl;
+    cout<<"marks of sst"<<endl;
     cin>>m4;
     avg_marks=(m1+m2+m3+m4)/4;
     if(avg_marks>=90)
